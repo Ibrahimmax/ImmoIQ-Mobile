@@ -1,0 +1,14 @@
+.custom-dot {
+    width: 10px;
+    height: 10px;
+    background-color: #E5E5E5;
+    border-radius: 100%;
+    margin:  3.5px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .custom-dot.active {
+    background-color: #459E97;
+    ; /* Change the active dot color as per your design */
+  }
